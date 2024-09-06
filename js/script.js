@@ -1,6 +1,6 @@
  // Getting formated date from date string
  let deadline = new Date(
-    "sep 15, 2024 15:37:25"
+    "sep 15, 2028 15:37:25"
 ).getTime();
 
 // Calling defined function at certain interval
