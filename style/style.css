@@ -411,5 +411,25 @@ body {
         font-size: 13px;
         text-align: left;
     }
+
+    @media (max-width: 377px) {
+    .searchbar input {
+        align-self: center;
+    }
+    .searchbar button {
+        display: block;
+        align-self: center;
+    }
+    .footer > div > form > textarea {
+        width: 18rem;
+    }
+    .footer > div > form > input {
+        width: 18rem;
+
+    }
+
+    .about-div > div {
+        padding: 3rem 1.5rem;
+    }
     
 }
