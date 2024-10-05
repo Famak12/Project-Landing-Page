@@ -207,7 +207,7 @@ body {
    background: linear-gradient(300deg, black, rgb(128, 16, 136), rgb(5, 5, 114));
     background-size: 180% 180%;
     width: 100%;
-    height: 70vh;
+    height: 50vh;
     display: flex;
     justify-content: center;
     align-items: center;
